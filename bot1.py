@@ -6,7 +6,7 @@ import time
 t = time.time()
 # начальные переменные\initial variables (
 # инициализация бота\initialization bot
-bot = telebot.TeleBot("7791813689:AAHpszWsR4YX6VT6VfwAYQhMNpac1e0jk7g")
+bot = telebot.TeleBot("API-KEY")
 # статистика пользователя\users statistics
 money = 0
 dohod = 0
